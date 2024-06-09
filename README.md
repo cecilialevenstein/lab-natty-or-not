@@ -12,6 +12,8 @@ Tudo foi criado por IAs. Apenas joguei uma ideia no ChatGPT e ele me voltou com 
 ## 🚀 Resultados
 Temos aqui um vídeo completamente criado por IAs Generativas, provando o ponto dos argumentos do vídeo: as IAs Generativas estão revolucionando a forma em que criaremos conteúdo.
 
+ASSISTA O VÍDEO [AQUI](https://lumen5.com/user/chelenalevenstein/ai-innovation-revolu-imc91/).
+
 ## 💭 Reflexão (Opcional)
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
 
