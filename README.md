@@ -1,4 +1,4 @@
-# AI Innovation Revolution: Shaping Tomorrow
+# V´IDEO: AI Innovation Revolution: Shaping Tomorrow
 
 ## 📒 Descrição
 Vídeo criado a partir de IAs generativas para o projeto "Natural or Fake natty? Como vencer na era das IAs generativas" do bootcamp da Nexa "Fundamentos de IA Generativa e Claude 3" na DIO, que explica os motivos no qual as IAs Generativas estão mudando o mundo para melhor.
